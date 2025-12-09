@@ -1,4 +1,4 @@
-# ShopEase AI Customer Support System - Visual Diagrams
+# ShopyWiz AI Customer Support System - Visual Diagrams
 
 This document contains visual diagrams in Mermaid format that can be rendered in Markdown viewers that support Mermaid (GitHub, GitLab, VS Code with Mermaid extension, etc.).
 
@@ -508,4 +508,5 @@ Install the "Markdown Preview Mermaid Support" extension to view diagrams in VS 
 ---
 
 **End of Diagrams Document**
+
 
