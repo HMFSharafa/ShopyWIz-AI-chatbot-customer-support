@@ -1,0 +1,30 @@
+[
+  {
+    "orderId": "ORD12345",
+    "customer": "Ayesha Fernando",
+    "items": ["Wireless Headphones"],
+    "status": "Shipped",
+    "expectedDelivery": "2025-02-14"
+  },
+  {
+    "orderId": "ORD67890",
+    "customer": "Tharindu Perera",
+    "items": ["USB-C Charger", "Phone Case"],
+    "status": "Processing",
+    "expectedDelivery": "2025-02-17"
+  },
+  {
+    "orderId": "ORD11111",
+    "customer": "Kamal Silva",
+    "items": ["Sports Smartwatch"],
+    "status": "Delivered",
+    "expectedDelivery": "2025-02-10"
+  },
+  {
+    "orderId": "ORD22222",
+    "customer": "Nimal Rajapaksa",
+    "items": ["Wireless Headphones", "USB-C Charger"],
+    "status": "Shipped",
+    "expectedDelivery": "2025-02-15"
+  }
+]

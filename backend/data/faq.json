@@ -1,0 +1,28 @@
+[
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for most locations. You can select COD during checkout if your address is eligible.",
+    "keywords": ["cash on delivery", "cod", "pay on delivery", "cash"]
+  },
+  {
+    "question": "What is your return policy?",
+    "answer": "Returns are accepted within 14 days of delivery. Items must be unused, in original packaging, and refunds are processed within 5-7 business days after inspection.",
+    "keywords": ["return", "refund", "exchange", "replacement", "policy"]
+  },
+  {
+    "question": "When will my item arrive?",
+    "answer": "Standard shipping takes 3-5 business days. Express shipping takes 1-2 business days for an additional fee. You’ll receive tracking via email.",
+    "keywords": ["shipping", "delivery", "arrival", "how long", "when will"]
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept major credit/debit cards, cash on delivery (where eligible), and selected digital wallets.",
+    "keywords": ["payment", "card", "visa", "mastercard", "wallet", "pay"]
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "Share your order ID (e.g., ORD12345) and I can fetch the status. You can also check your email for the tracking link.",
+    "keywords": ["track", "order status", "tracking", "where is my order"]
+  }
+]
+

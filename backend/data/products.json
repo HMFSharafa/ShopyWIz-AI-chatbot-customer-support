@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 8500,
+    "tags": ["audio", "bluetooth", "wireless"],
+    "description": "Premium wireless headphones with noise cancellation",
+    "image": "/products/headphones.svg"
+  },
+  {
+    "name": "USB-C Charger",
+    "category": "Accessories",
+    "price": 1500,
+    "tags": ["fast charging", "mobile"],
+    "description": "Fast charging USB-C cable and adapter",
+    "image": "/products/charger.svg"
+  },
+  {
+    "name": "Sports Smartwatch",
+    "category": "Wearables",
+    "price": 18500,
+    "tags": ["fitness", "waterproof", "health tracking"],
+    "description": "Advanced fitness tracking smartwatch with GPS",
+    "image": "/products/smartwatch.svg"
+  },
+  {
+    "name": "Phone Case",
+    "category": "Accessories",
+    "price": 1200,
+    "tags": ["protection", "mobile", "durable"],
+    "description": "Premium protective case for smartphones",
+    "image": "/products/phone-case.svg"
+  },
+  {
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "price": 6500,
+    "tags": ["audio", "bluetooth", "wireless", "compact"],
+    "description": "Compact wireless earbuds with excellent sound quality",
+    "image": "/products/earbuds.svg"
+  },
+  {
+    "name": "Laptop Stand",
+    "category": "Accessories",
+    "price": 4500,
+    "tags": ["ergonomic", "desk", "productivity"],
+    "description": "Adjustable laptop stand for better ergonomics",
+    "image": "/products/laptop-stand.svg"
+  }
+]

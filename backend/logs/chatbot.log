@@ -1,0 +1,34 @@
+[2025-12-06 13:06:55] Intent: Fallback
+User: I am gpoing tp buy a skirt
+Bot: I'm not sure I understand. Could you rephrase your question?
+==================================================
+[2025-12-06 13:07:19] Intent: GeneralFAQ
+User: please tell me about the size requirements for skirt
+Bot: I can help you with:
+• Checking your order status (provide your order ID)
+• Return and refund policies
+• Product recommendations
+• Shipping information
+• Payment questions
+• General inquiries
+
+What would you like to know?
+==================================================
+[2025-12-06 13:07:38] Intent: ProductRecommendation
+User: i need product recommendation
+Bot: Here are some popular products you might like:
+
+1. Wireless Headphones Pro
+   Price: $129.99
+   Category: Electronics
+
+2. Smart Watch Series 5
+   Price: $299.99
+   Category: Electronics
+
+3. Wireless Mouse Ergonomic
+   Price: $39.99
+   Category: Accessories
+
+
+==================================================
