@@ -1,4 +1,4 @@
-# ShopEase AI Customer Support System
+# ShopyWiz AI Customer Support System
 
 A full-stack e-commerce application with an integrated AI-powered customer support chatbot. Built with React + Vite + TailwindCSS for the frontend and Node.js + Express for the backend.
 
@@ -308,3 +308,4 @@ This project is provided as-is for educational purposes.
 ---
 
 **Happy Coding! 🚀**
+
